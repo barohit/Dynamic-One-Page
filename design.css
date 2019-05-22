@@ -1,0 +1,15 @@
+#header {
+	color: White;
+	text-align: center;
+}
+
+body {background-color: Black;
+color: white;}
+
+#list{position: relative;
+left:700px;
+top:150px;}
+
+#results2{
+	text-align:center;
+}
